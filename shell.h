@@ -8,6 +8,8 @@
 #include <string.h>
 #include <unistd.h>
 #include <stdbool.h>
+#include <sys/types.h>
+#include <sys/wait.h>
 
 /*
  *The Macro file extension used
